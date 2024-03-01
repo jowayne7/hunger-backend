@@ -1,6 +1,6 @@
 from django.db import models 
 from cloudinary.models import CloudinaryField
-from backend.constants import *
+from config.constants import *
 
 # Create your models here.
 
